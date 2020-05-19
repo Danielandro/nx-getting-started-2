@@ -28,6 +28,12 @@
     },
     "ui-header": {
       "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "api-interface": {
+      "tags": []
     }
   }
 }
